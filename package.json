@@ -1,0 +1,16 @@
+{
+  "name": "hamzapakage",
+  "version": "1.0.0",
+  "description": "this is dummy data",
+  "main": "index.js",
+  "dependencies": {
+    "jshint": "^2.13.0",
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hamzaDeveloper",
+  "license": "ISC"
+}
